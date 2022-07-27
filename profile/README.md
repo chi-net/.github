@@ -1,6 +1,6 @@
 # chi Network
 
-## a application collection for chihuo2104.
+## an application collection for chihuo2104.
 
 ## About the avatar
 
